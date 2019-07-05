@@ -2,6 +2,4 @@
 
 PROJET WEB (OpenClassrooms)
 
-Respecte les normes W3C
-
-Le site est responsive (TV, PC, MOBILE, TABLETTE)
+Le site WebAgency est responsive (TV, PC, MOBILE, TABLETTE) et respecte les normes W3C
